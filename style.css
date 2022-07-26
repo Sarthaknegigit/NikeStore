@@ -1,3 +1,7 @@
+html
+{
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Lato", sans-serif;
   margin: 0;
@@ -258,7 +262,7 @@ nav {
 }
 
 .color:last-child{
-  background-color: #fff;
+  background-color: darkblue;
 }
 
 .size{
